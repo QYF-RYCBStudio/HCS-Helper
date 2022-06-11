@@ -2,4 +2,4 @@
 # HCS-Helper
 This repository is used to install Python what HCS runs on and update it.
 
-[zh-cn]:https://baidu.com
+[zh-cn]:https://github.com/QYF-RYCBStudio/HCS-Helper/blob/main/README_zh-CN.md
